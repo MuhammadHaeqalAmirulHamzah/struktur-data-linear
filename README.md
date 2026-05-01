@@ -1,5 +1,7 @@
 # struktur-data-linear
 Algoritma (MODUL 2)
+
+
 data = [10,20,30,40]
 
 print(data[0])
